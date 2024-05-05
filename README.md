@@ -1,10 +1,9 @@
  👋 Hi, I’m Zoey
 
  
- 👀 I’m a student studying System Analysis in NUS
+[![My Skills](https://skillicons.dev/icons?i=py,cs,js,php,aws,azure,docker,git,wordpress,dotnet,spring,)](https://skillicons.dev)
 
  
- 🌱 I’m currently learning C#, Python, Java, HTML, CSS, JavaScript, Machine Learning
 
 
 <!---
