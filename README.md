@@ -1,10 +1,15 @@
  👋 Hi, I’m Zoey
  
 🔭 I’m currently working on AI-Software integration
+
 👯 I’m looking to collaborate on anything
+
 🤝 I’m looking for help with 
+
 🌱 I’m currently learning 
+
 💬 Ask me about
+
 ⚡ Fun fact
  
 <!--[![My Skills](https://skillicons.dev/icons?i=py,cs,js,php,aws,azure,docker,git,wordpress,dotnet,spring,)](https://skillicons.dev)-->
